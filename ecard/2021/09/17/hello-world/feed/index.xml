@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/./ecard/2021/09/17/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/./ecard/2021/09/17/hello-world/</link>
 	<description>Kunal Padole Profile e card</description>
 	<lastBuildDate>Fri, 17 Sep 2021 07:44:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>./../index.html#comment-1</link>
+		<link>/./ecard/2021/09/17/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 07:44:50 +0000</pubDate>
